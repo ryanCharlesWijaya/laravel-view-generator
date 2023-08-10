@@ -1,0 +1,17 @@
+{
+    "name": "ryan-charles-wijaya/laravel-view-generator",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RyanCharlesWijaya\\LaravelViewGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ryan Charles Wijaya",
+            "email": "ryancharlesrcw@gmail.com"
+        }
+    ],
+    "require": {}
+}
